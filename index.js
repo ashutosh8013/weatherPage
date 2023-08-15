@@ -81,7 +81,7 @@ async function fetchUserWeatherInfo(coordinates) {
     }
     catch(err) {
         loadingScreen.classList.remove("active");
-        //HW
+       //MODIFICATION
 
     }
 
@@ -119,7 +119,7 @@ function getLocation() {
         navigator.geolocation.getCurrentPosition(showPosition);
     }
     else {
-        //HW - show an alert for no gelolocation support available
+       //MODIFICATION
     }
 }
 
@@ -167,7 +167,6 @@ async function fetchSearchWeatherInfo(city) {
     }
     catch(err) {
         
-    console.log("asdfasdfas");
-    userInfoContainer.classList.remove("active");
+ //MODIFICATIONS
     }
 }
