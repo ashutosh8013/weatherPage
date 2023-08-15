@@ -1,5 +1,5 @@
 WEATHER PAGE 
-the will tell the weather of yourlocation and the weather of city you name
+it will tell the weather of yourlocation and the weather of city you name
 
 errors!!
 :not able to handle try and catch block if the city name is wrong->if city name is wrong it shuld display the image in assests folder
