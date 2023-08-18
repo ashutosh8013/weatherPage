@@ -1,3 +1,6 @@
-modifications:
-1) error image is not comming if the city name is not valid
+WEATHER PAGE 
+it will tell the weather of yourlocation and the weather of city you name
+
+errors!!
+:not able to handle try and catch block if the city name is wrong->if city name is wrong it shuld display the image in assests folder
 
